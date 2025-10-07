@@ -1,5 +1,5 @@
 body {
-  background-color: #7FFFD4;
+  background-color: #a9a9a9;
   font-family: Arial, sans-serif;
   color: #2F4F4F;
 }
@@ -11,7 +11,7 @@ body {
     padding: 20px;
     background-color: white;
     border-radius: 25px;
-    box-shadow: 0 4px 8px rgba (0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba (44, 44, 44 0.5);
     text-align: center;
   }
 
